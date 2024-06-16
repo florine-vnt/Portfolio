@@ -38,7 +38,6 @@ Pour explorer les projets localement, suivez ces étapes :
 
 Clonez le dépôt :
 git clone https://github.com/votre-utilisateur/portfolio.git
-Accédez au répertoire du projet :
 
 Contact<br/>
 N'hésitez pas à me contacter pour toute question :
