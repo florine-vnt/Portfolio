@@ -1,4 +1,3 @@
-Mon Portfolio
 Bienvenue sur mon portfolio de développeuse web ! Ce dépôt contient une collection de mes projets personnels et de groupe, mettant en avant mes compétences et mon expérience dans le domaine du développement web.
 
 Contenu
